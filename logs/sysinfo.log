@@ -1,0 +1,16 @@
+===== SYSTEM INFORMATION REPORT =====
+Hostname: iib-as2
+Date: Fri Oct 16 08:47:37 UTC 2026
+Operating System: Ubuntu 26.04.1 LTS
+Kernel: 7.0.0-31-generic
+
+===== MEMORY =====
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       294Mi        79Mi       4.2Mi       607Mi       661Mi
+Swap:             0B          0B          0B
+
+===== DISK =====
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vda1        24G  3.1G   21G  14% /
+
+===== END OF REPORT =====
