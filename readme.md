@@ -11,6 +11,25 @@ The `scripts/sysinfo.sh` script generates a system information report containing
 - Linux kernel version
 - Memory information
 - Disk usage
+### How to Run the Script
+
+**Step 1: List the files and folders**
+
+```bash
+ls
+```
+
+**Step 2: Enter the project folder**
+
+```bash
+cd ds1202-project
+```
+
+**Step 3: Run the script**
+
+```bash
+./scripts/sysinfo.sh
+```
 
 ## Requirements
 - Linux environment
