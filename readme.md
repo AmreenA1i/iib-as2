@@ -60,13 +60,5 @@ Example commands:
 
 `git push origin main`
 
-## Evidence Screenshots
-The submission evidence PDF should include:
-1. SSH key generation
-2. Successful passwordless SSH login
-3. Project directory structure and permissions
-4. System information script output
-5. Git commit history and branches
-
 ## Notes
 The script reports the system information available on the Linux server. The `logs/` directory is reserved for log files if logging functionality is added in a future enhancement.
